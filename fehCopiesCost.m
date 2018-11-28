@@ -194,8 +194,6 @@ else
         %costs
         pullCost=[5 4 4 4 3];
 
-        %number of repetitions of the experiment
-        repetitions=10^5;
 
         for i=1:repetitions
             pulledCopies=0;
